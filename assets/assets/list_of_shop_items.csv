@@ -1,0 +1,11 @@
+ID,price,unlock_requirement,name,description,price_multiplier,cookie_per_second_production,number_of_bought_objects
+0,10.00,0.00,"Kek","Hallo! Mein Name ist Kek! Ich liebe Kekse!",1.25,1.00,0
+1,200.00,50.00,"Bäcker","Ein stolzer Bäckermeister im eigenen Betrieb!",1.1,20.00,0
+2,1500.00,1000.00,"Cookie-Lieferant","Der schnellste Lieferant Deutschlands, wenn es um kostbare Cookies geht!",1.1,150.00,0
+3,7500.00,5000.00,"Krümmelmonster","Ein exotisches Wesen, welches eine Leidenschaft für Cookies pflegt!",1.1,750.00,0
+4,40000.00,25000.00,"Cookiecopter","Ein Helikopter, welcher speziell für den Transport von Cookies gebaut wurde",1.1,4000.00,0
+5,100000.00,75000.00,"Cookie Fabrik","Die erste vertauenswürdige Fabrik für qualitativ hochwertige Cookies!",1.1,10000.00,0
+6,500000.00,300000.00,"Cookietopia","Das Monopol in der Cookieindustrie!",1.1,50000.00,0
+7,1250000.00,1000000.00,"Zeitmaschine","Ein durchaus seltenes Gerät, dass uns die Cookies der Konkurrenz aus der Zukunft klaut!",1.1,125000.00,0
+8,2000000.00,1500000.00,"Cookie Rakete","Die erste Rakete, die ins All fliegt, um Cookies im All zu vermarkten!",1.1,200000.00,0
+9,10000000.00,5000000.00,"Planet Cookie","Ein künstlich erzeugter Planet aus Cookie-Teig, der nur erschaffen worden ist, um mehr Cookies zu produzieren!",1.1,1000000.00,0
